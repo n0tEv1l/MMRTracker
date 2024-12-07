@@ -1,2 +1,4 @@
 # MMRTracker
-A small program to account for your MMR
+is a program for tracking the MMR rating of players.
+
+It does not require installation. All data is stored locally.
